@@ -1,0 +1,12 @@
+#masu {
+    background-color: black;
+}
+
+td.masu {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    user-select: none;
+}
